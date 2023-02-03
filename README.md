@@ -1,4 +1,4 @@
-![logo](https://github.com/Kishan-Kumar-Zalavadia/Kishan-Kumar-Zalavadia/blob/main/Github%20Banner.png)
+<!--![logo](https://github.com/Kishan-Kumar-Zalavadia/Kishan-Kumar-Zalavadia/blob/main/Github%20Banner.png)
 <!-- -------------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Kishan Kumar Zalavadia</h1>
