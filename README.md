@@ -48,113 +48,11 @@
 
 - ⚡ Fun fact **I have a good sense of humour.😀**
 
-<!-- -------------------------------------------- -->
-<h3 align="left">Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/kishan-kumar-zalavadia" target="_blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" /> </a> &nbsp
-<a href="https://github.com/Kishan-Kumar-Zalavadia" target="blank"><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /> </a> &nbsp
-<a href="https://www.hackerrank.com/kishankumar3131?hr_r=1" target="blank"><img src="https://img.shields.io/badge/hackerrank-282C34?logo=hackerrank&logoColor=00EA64" alt="HackerRank logo" title="HackerRank" height="25" /> </a> &nbsp
-<a href="https://leetcode.com/kishan_kumar_zalavadia/" target="blank"><img src="https://img.shields.io/badge/leetcode-282C34?logo=leetcode&logoColor=FFA116" alt="Leetcode logo" title="Leetcode" height="25" /> </a> &nbsp
-<a href="https://auth.geeksforgeeks.org/user/kishankumarzalavadia/practice" target="blank"><img src="https://img.shields.io/badge/geeksforgeeks-282C34?logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksForGeeks logo" title="GeeksForGeeks" height="25" /> </a> &nbsp
-</p>
 
 
-<!-- -------------------------------------------- -->
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://kishankumar.netlify.app/static/media/skill4.3dfb665e058d08c99f28.png"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
--->
 <!-- --------------------------------------- -->
 <!--https://simpleicons.org/-->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left"> 🛠  Technologies and tools: </h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /> &nbsp
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /> &nbsp
@@ -167,7 +65,20 @@
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /> &nbsp
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /> &nbsp
 </p>
+<!-- --------------------------------------- -->
+
 <!-- -------------------------------------------- -->
+<h2 align="left"> 🔍  Where to find me: </h2>
+<p>
+<a href="https://linkedin.com/in/kishan-kumar-zalavadia" target="_blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" /> </a> &nbsp
+<a href="https://github.com/Kishan-Kumar-Zalavadia" target="blank"><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /> </a> &nbsp
+<a href="https://www.hackerrank.com/kishankumar3131?hr_r=1" target="blank"><img src="https://img.shields.io/badge/hackerrank-282C34?logo=hackerrank&logoColor=00EA64" alt="HackerRank logo" title="HackerRank" height="25" /> </a> &nbsp
+<a href="https://leetcode.com/kishan_kumar_zalavadia/" target="blank"><img src="https://img.shields.io/badge/leetcode-282C34?logo=leetcode&logoColor=FFA116" alt="Leetcode logo" title="Leetcode" height="25" /> </a> &nbsp
+<a href="https://auth.geeksforgeeks.org/user/kishankumarzalavadia/practice" target="blank"><img src="https://img.shields.io/badge/geeksforgeeks-282C34?logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksForGeeks logo" title="GeeksForGeeks" height="25" /> </a> &nbsp
+</p>
+<!-- --------------------------------------- -->
+
+<!-- --------------------------------------- -->
 <p>
   <img
     align="left"
