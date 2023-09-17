@@ -33,6 +33,10 @@
 - 📄 Know about my experiences [https://kishankumar.netlify.app/](https://kishankumar.netlify.app/)
 
 - ⚡ Fun fact **I have a good sense of humour.😀**
+
+- 📚 Currently pursuing Master in Computer Science: 🇺🇸 **University of North Texas**, USA 🇺🇸
+
+<!--<img src="https://img.shields.io/badge/University of North Texas,USA 🇺🇸-282C34?logo=&logoColor=64BC4B" alt="GraphQL logo" title="GraphQL" height="25" /> -->
 <br>
 <!-- --------------------------------------- -->
 
