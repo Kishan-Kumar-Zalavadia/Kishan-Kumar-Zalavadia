@@ -12,6 +12,10 @@
     src="https://komarev.com/ghpvc/?username=kishan-kumar-zalavadia&label=Profile%20views&color=0e75b6&style=flat"
     alt="kishan-kumar-zalavadia"
   />
+    <p>
+<!--       <img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Stars,Followers,Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" />
+  </p>
 </p>
 <!-- --------------------------------------- -->
 
