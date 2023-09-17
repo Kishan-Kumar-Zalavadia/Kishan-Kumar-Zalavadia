@@ -2,23 +2,29 @@
 <!-- -------------------------------------------- -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kishan Kumar Zalavadia</h1>
+<hr>
 <h3 align="center">A Versatile, Dedicated, and Collaborative Software Engineer</h3>
-
+<table align="right">
+ <tr><td><img height="13">🇺🇸 English</td></tr>
+ <tr><td><img height="13">🇮🇳 Hindi</td></tr>
+ <tr><td><img height="13">🇮🇳 Telugu</td></tr>
+  <tr><td><img height="13">🇮🇳 Gujarati</td></tr>
+</table>
 <!-- -------------------------------------------- -->
 
 <!-- -------------------------------------------- -->
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=kishan-kumar-zalavadia&label=Profile%20views&color=0e75b6&style=flat"
-    alt="kishan-kumar-zalavadia"
+    alt="Profile Views"
   />
-    <p>
+</p>
+
 <!--       <img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Stars,Followers,Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" /> -->
 <img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" />
   </p>
 </p>
 <!-- --------------------------------------- -->
-
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
