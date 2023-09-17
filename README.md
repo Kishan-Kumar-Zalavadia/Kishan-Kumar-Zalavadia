@@ -4,17 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar Zalavadia</h1>
 <h3 align="center">A Versatile, Dedicated, and Collaborative Software Engineer</h3>
 
-
-
 <!-- -------------------------------------------- -->
-<!--<img
-  align="right"
-  alt="Coding"
-  width="300"
-  height="250"
-  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
-/>
--->
 
 <!-- -------------------------------------------- -->
 <p align="left">
@@ -23,6 +13,8 @@
     alt="kishan-kumar-zalavadia"
   />
 </p>
+<!-- --------------------------------------- -->
+
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -32,14 +24,8 @@
   /></a>
 </p> -->
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
-      alt=""
-  /></a>
-</p>
 
+<!-- --------------------------------------- -->
 - 👨‍💻 All of my projects are available at [https://kishankumar.netlify.app/](https://kishankumar.netlify.app/)
 
 - 📫 How to reach me **kishankumarz1048@gmail.com**
@@ -47,6 +33,8 @@
 - 📄 Know about my experiences [https://kishankumar.netlify.app/](https://kishankumar.netlify.app/)
 
 - ⚡ Fun fact **I have a good sense of humour.😀**
+<br>
+<!-- --------------------------------------- -->
 
 
 
@@ -65,6 +53,7 @@
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /> &nbsp
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /> &nbsp
 </p>
+<br>
 <!-- --------------------------------------- -->
 
 <!-- -------------------------------------------- -->
@@ -76,6 +65,7 @@
 <a href="https://leetcode.com/kishan_kumar_zalavadia/" target="blank"><img src="https://img.shields.io/badge/leetcode-282C34?logo=leetcode&logoColor=FFA116" alt="Leetcode logo" title="Leetcode" height="25" /> </a> &nbsp
 <a href="https://auth.geeksforgeeks.org/user/kishankumarzalavadia/practice" target="blank"><img src="https://img.shields.io/badge/geeksforgeeks-282C34?logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksForGeeks logo" title="GeeksForGeeks" height="25" /> </a> &nbsp
 </p>
+<br>
 <!-- --------------------------------------- -->
 
 <!-- --------------------------------------- -->
@@ -102,11 +92,11 @@
     alt="kishan-kumar-zalavadia"
   />
 </p>
--->
+
 <!--
 <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=kishan-kumar-zalavadia&theme=dark&show_icons=true"
     alt="kishan-kumar-zalavadia"
   />
-  -->
+-->
