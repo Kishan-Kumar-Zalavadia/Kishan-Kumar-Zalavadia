@@ -40,6 +40,7 @@
 
 <!-- --------------------------------------- -->
 <!--https://simpleicons.org/-->
+
 <h2 align="center">✨ Technologies and tools 🛠</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /> &nbsp
@@ -74,6 +75,7 @@
 <hr>
 
 <!-- --------------------------------------- -->
+<!--https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md-->
 <!-- https://github.com/zumrudu-anka/zumrudu-anka/blob/master/README.md -->
 
 <!-- --------------------------------------- -->
@@ -110,3 +112,4 @@
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to <a href="https://linkedin.com/in/kishan-kumar-zalavadia">say hi</a>,<b> I'll be happy to connect with you.</b> :)</em>
 </p>
+<!-- --------------------------------------- -->
