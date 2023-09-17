@@ -49,6 +49,7 @@
 - ⚡ Fun fact **I have a good sense of humour.😀**
 
 <!-- -------------------------------------------- -->
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kishan kumar zalavadia" target="blank"
@@ -87,6 +88,7 @@
       height="35"
       width="45"
   /></a>
+  -->
   
   <!--
   <a href="https://www.youtube.com/c/kishan bist" target="blank"
@@ -97,8 +99,19 @@
       height="45"
       width="45"
   /></a>
-  -->
+
 </p>
+-->
+<!-- -------------------------------------------- -->
+<h3 align="left">Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/kishan-kumar-zalavadia" target="blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" /> </a> &nbsp
+<a href="https://github.com/Kishan-Kumar-Zalavadia" target="blank"><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /> </a> &nbsp
+<a href="https://www.hackerrank.com/kishankumar3131?hr_r=1" target="blank"><img src="https://img.shields.io/badge/hackerrank-282C34?logo=hackerrank&logoColor=00EA64" alt="HackerRank logo" title="HackerRank" height="25" /> </a> &nbsp
+<a href="https://leetcode.com/kishan_kumar_zalavadia/" target="blank"><img src="https://img.shields.io/badge/leetcode-282C34?logo=leetcode&logoColor=FFA116" alt="Leetcode logo" title="Leetcode" height="25" /> </a> &nbsp
+<a href="https://auth.geeksforgeeks.org/user/kishankumarzalavadia/practice" target="blank"><img src="https://img.shields.io/badge/geeksforgeeks-282C34?logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksForGeeks logo" title="GeeksForGeeks" height="25" /> </a> &nbsp
+</p>
+
 
 <!-- -------------------------------------------- -->
 <!--
