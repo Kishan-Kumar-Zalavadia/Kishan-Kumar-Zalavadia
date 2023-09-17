@@ -2,7 +2,7 @@
 <!-- -------------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Kishan Kumar Zalavadia</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A Versatile, Dedicated, and Collaborative Software Engineer</h3>
 
 <!-- -------------------------------------------- -->
 <!--<img
