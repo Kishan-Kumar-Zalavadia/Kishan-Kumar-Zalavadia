@@ -64,6 +64,7 @@
 <a href="https://www.hackerrank.com/kishankumar3131?hr_r=1" target="blank"><img src="https://img.shields.io/badge/hackerrank-282C34?logo=hackerrank&logoColor=00EA64" alt="HackerRank logo" title="HackerRank" height="25" /> </a> &nbsp
 <a href="https://leetcode.com/kishan_kumar_zalavadia/" target="blank"><img src="https://img.shields.io/badge/leetcode-282C34?logo=leetcode&logoColor=FFA116" alt="Leetcode logo" title="Leetcode" height="25" /> </a> &nbsp
 <a href="https://auth.geeksforgeeks.org/user/kishankumarzalavadia/practice" target="blank"><img src="https://img.shields.io/badge/geeksforgeeks-282C34?logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksForGeeks logo" title="GeeksForGeeks" height="25" /> </a> &nbsp
+<a href="mailto:kishankumarz1048@gmail.com" target="blank"><img src="https://img.shields.io/badge/kishankumarz1048@gmail.com-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" /> </a> &nbsp
 </p>
 <br>
 <!-- --------------------------------------- -->
