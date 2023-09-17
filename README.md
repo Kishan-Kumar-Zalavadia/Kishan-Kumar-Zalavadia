@@ -49,59 +49,6 @@
 - ⚡ Fun fact **I have a good sense of humour.😀**
 
 <!-- -------------------------------------------- -->
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kishan kumar zalavadia" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
-      alt="kishan kumar zalavadia"
-      height="35"
-      width="35"
-  /></a>
-  <a
-    href="https://www.hackerrank.com/kishankumar3131"
-    target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/640px-HackerRank_Icon-1000px.png"
-      alt="kishankumarzalavadia"
-      height="35"
-      width="45"
-  /></a>
-  <a href="https://www.leetcode.com/kishan_kumar_zalavadia" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png"
-      alt="kishan_kumar_zalavadia"
-      height="35"
-      width="35"
-  /></a>
-  <a
-    href="https://auth.geeksforgeeks.org/user/kishankumarzalavadia"
-    target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png"
-      alt="kishankumarzalavadia"
-      height="35"
-      width="45"
-  /></a>
-  -->
-  
-  <!--
-  <a href="https://www.youtube.com/c/kishan bist" target="blank"
-    ><img
-      align="center"
-      src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png"
-      alt="kishan bist"
-      height="45"
-      width="45"
-  /></a>
--->
-</p>
-<!-- -------------------------------------------- -->
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/kishan-kumar-zalavadia" target="_blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" /> </a> &nbsp
