@@ -36,11 +36,11 @@
 <br>
 <!-- --------------------------------------- -->
 
-
+<hr>
 
 <!-- --------------------------------------- -->
 <!--https://simpleicons.org/-->
-<h2 align="left">⚡ Technologies and 🛠 tools: </h2>
+<h2 align="center">✨ Technologies and tools 🛠</h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /> &nbsp
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /> &nbsp
@@ -56,8 +56,10 @@
 <br>
 <!-- --------------------------------------- -->
 
-<!-- -------------------------------------------- -->
-<h2 align="left"> 🔍  Where to find me: </h2>
+<hr>
+
+<!-- --------------------------------------- -->
+<h2 align="center"> 🔍 Where to find me 🔍 </h2>
 <p>
 <a href="https://linkedin.com/in/kishan-kumar-zalavadia" target="_blank"><img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin&logoColor=0A66C2" alt="LinkedIn logo" title="LinkedIn" height="25" /> </a> &nbsp
 <a href="https://github.com/Kishan-Kumar-Zalavadia" target="blank"><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /> </a> &nbsp
@@ -69,39 +71,42 @@
 <br>
 <!-- --------------------------------------- -->
 
+<hr>
+
+<!-- --------------------------------------- -->
+<!-- https://github.com/zumrudu-anka/zumrudu-anka/blob/master/README.md -->
+
+<!-- --------------------------------------- -->
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-kumar-zalavadia&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-kumar-zalavadia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+    
+    
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kishan-kumar-zalavadia&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a> -->
+  </div>
+  <br>
+  <div align=center>
+
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-kumar-zalavadia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<!-- --------------------------------------- -->
+
+<hr>
+
 <!-- --------------------------------------- -->
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kishan-kumar-zalavadia&show_icons=true&locale=en&layout=compact"
-    alt="kishan-kumar-zalavadia"
-  />
-</p>
-<!--
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kishan-kumar-zalavadia&show_icons=true&locale=en"
-    alt="kishan-kumar-zalavadia"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-kumar-zalavadia&"
-    alt="kishan-kumar-zalavadia"
-  />
-</p>
-
-<!--
-<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kishan-kumar-zalavadia&theme=dark&show_icons=true"
-    alt="kishan-kumar-zalavadia"
-  />
--->
-
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to <a href="https://linkedin.com/in/kishan-kumar-zalavadia">say hi</a>,<b> I'll be happy to connect with you.</b> :)</em>
-
+</p>
