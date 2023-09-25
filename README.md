@@ -21,7 +21,7 @@
 </p>
 
 <!--       <img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Stars,Followers,Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" /> -->
-<img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" />
+<!--<img src="https://github-profile-trophy.vercel.app/?username=kishan-kumar-zalavadia&theme=flat&title=Commit,MultiLanguage,Repositories&margin-w=5&row=1&column=4" />-->
   </p>
 </p>
 <!-- --------------------------------------- -->
