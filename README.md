@@ -5,10 +5,10 @@
 <hr>
 <h3 align="center">A Versatile, Dedicated, and Collaborative Software Engineer</h3>
 <table align="right">
- <tr><td><img height="13">🇺🇸 English</td></tr>
- <tr><td><img height="13">🇮🇳 Hindi</td></tr>
- <tr><td><img height="13">🇮🇳 Telugu</td></tr>
-  <tr><td><img height="13">🇮🇳 Gujarati</td></tr>
+ <tr><td><img height="13">🇺🇸 English 🇺🇸</td></tr>
+ <tr><td><img height="13">🇮🇳 Hindi 🇮🇳</td></tr>
+ <tr><td><img height="13">🇮🇳 Telugu 🇮🇳</td></tr>
+  <tr><td><img height="13">🇮🇳 Gujarati 🇮🇳</td></tr>
 </table>
 <!-- -------------------------------------------- -->
 
