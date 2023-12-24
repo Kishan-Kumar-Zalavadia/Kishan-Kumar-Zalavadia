@@ -4,12 +4,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Kishan Kumar Zalavadia</h1>
 <hr>
 <h3 align="center">A Versatile, Dedicated, and Collaborative Software Engineer</h3>
-<table align="right">
+<!-- <table align="right">
  <tr><td><img height="13">🇺🇸 English 🇺🇸</td></tr>
  <tr><td><img height="13">🇮🇳 Hindi 🇮🇳</td></tr>
  <tr><td><img height="13">🇮🇳 Telugu 🇮🇳</td></tr>
   <tr><td><img height="13">🇮🇳 Gujarati 🇮🇳</td></tr>
-</table>
+</table> -->
+<img align="right" alt="Coding" width="350" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
+
 <!-- -------------------------------------------- -->
 
 <!-- -------------------------------------------- -->
