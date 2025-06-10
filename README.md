@@ -46,7 +46,7 @@
 
 - ⚡ Fun fact **I have a good sense of humour.😀**
 
-- 📚 Currently working as a Software Developer II at Paycom, completed Master in Computer Science: 🇺🇸 **University of North Texas**, USA 🇺🇸
+- 📚 Currently working as a Software Developer II at **Paycom**, completed Master in Computer Science: 🇺🇸 **University of North Texas**, USA 🇺🇸
 
 <!--<img src="https://img.shields.io/badge/University of North Texas,USA 🇺🇸-282C34?logo=&logoColor=64BC4B" alt="GraphQL logo" title="GraphQL" height="25" /> -->
 <br>
