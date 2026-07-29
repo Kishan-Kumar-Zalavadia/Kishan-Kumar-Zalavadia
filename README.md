@@ -173,7 +173,7 @@ Designed and developed a production ReactJS website achieving **95% client satis
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-kumar-zalavadia&theme=react&border=61dafb&hide_border=true" />
+<!-- <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-kumar-zalavadia&theme=react&border=61dafb&hide_border=true" /> -->
 <!-- <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-kumar-zalavadia&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> -->
 
 <br/>
