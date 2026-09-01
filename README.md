@@ -169,7 +169,7 @@ Designed and developed a production ReactJS website achieving **95% client satis
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <div align="center">
 
@@ -178,7 +178,7 @@ Designed and developed a production ReactJS website achieving **95% client satis
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-kumar-zalavadia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-kumar-zalavadia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 </div>
 
