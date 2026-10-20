@@ -30,13 +30,14 @@ Before Paycom, I built enterprise web apps at **LTIMindtree** and contributed to
 
 | # | Company | Role | Period |
 |---|---|---|---|
-| 1 | 🟢 **Paycom** | Software Developer II | Jun 2025 – May 2026 |
-| 2 | 🎓 **University of North Texas** | Graduate Teaching Assistant – Fundamentals of AI | Jan 2025 – May 2025 |
-| 3 | 🎓 **University of North Texas** | Graduate Teaching Assistant – Machine Learning | Aug 2024 – Dec 2024 |
-| 4 | 🟢 **Paycom** | Software Development Intern → converted to FTE | May 2024 – Aug 2024 |
-| 5 | 🎓 **University of North Texas** | Graduate Research Assistant | Jan 2024 – May 2025 |
-| 6 | 🌐 **LTIMindtree** | Software Engineer | Sep 2022 – Jul 2023 |
-| 7 | 🌐 **Mindtree** | Software Engineering Intern | Feb 2022 – May 2022 |
+| 1 | 🔴 **DataVinci** | SWeb Analytics Developer | September 2026 – Present |
+| 2 | 🟢 **Paycom** | Software Developer II | Jun 2025 – May 2026 |
+| 3 | 🎓 **University of North Texas** | Graduate Teaching Assistant – Fundamentals of AI | Jan 2025 – May 2025 |
+| 4 | 🎓 **University of North Texas** | Graduate Teaching Assistant – Machine Learning | Aug 2024 – Dec 2024 |
+| 5 | 🟢 **Paycom** | Software Development Intern → converted to FTE | May 2024 – Aug 2024 |
+| 6 | 🎓 **University of North Texas** | Graduate Research Assistant | Jan 2024 – May 2025 |
+| 7 | 🌐 **LTIMindtree** | Software Engineer | Sep 2022 – Jul 2023 |
+| 8 | 🌐 **Mindtree** | Software Engineering Intern | Feb 2022 – May 2022 |
 
 ### 🔑 Key Achievements
 
