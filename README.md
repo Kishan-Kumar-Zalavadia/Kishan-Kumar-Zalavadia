@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishan-kumar-zalavadia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishankumar.netlify.app/)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kishankumarzalavadia)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Kishan_Kumar_Zalavadia)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankumarz1048@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kishan_kumar_zalavadia/)
 
@@ -193,10 +193,10 @@ Open to conversations about **full-stack, backend, and platform engineering role
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishan-kumar-zalavadia)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishankumar.netlify.app/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankumarz1048@gmail.com)
-[![Linktree](https://img.shields.io/badge/All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kishankumarzalavadia)
+[![Linktree](https://img.shields.io/badge/All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Kishan_Kumar_Zalavadia)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kishan-kumar-zalavadia&label=Profile%20Views&color=0e75b6&style=flat)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=kishan-kumar-zalavadia&label=Profile%20Views&color=0e75b6&style=flat)-->
 
 </div>
