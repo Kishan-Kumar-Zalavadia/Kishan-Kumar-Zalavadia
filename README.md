@@ -30,7 +30,7 @@ Before Paycom, I built enterprise web apps at **LTIMindtree** and contributed to
 
 | # | Company | Role | Period |
 |---|---|---|---|
-| 1 | 🔴 **DataVinci** | SWeb Analytics Developer | September 2026 – Present |
+| 1 | 🔴 **DataVinci** | Web Analytics Developer | September 2026 – Present |
 | 2 | 🟢 **Paycom** | Software Developer II | Jun 2025 – May 2026 |
 | 3 | 🎓 **University of North Texas** | Graduate Teaching Assistant – Fundamentals of AI | Jan 2025 – May 2025 |
 | 4 | 🎓 **University of North Texas** | Graduate Teaching Assistant – Machine Learning | Aug 2024 – Dec 2024 |
